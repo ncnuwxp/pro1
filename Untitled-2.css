@@ -1,0 +1,98 @@
+.box{
+	width:900px;
+	height:460px;}
+.box1{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image:url(img/1.jpg);}
+.box2{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image: url(img/1.jpg);}
+.box3{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image:url(img/1.jpg);}
+.box4{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image: url(img/1.jpg);}
+.box5{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image: url(img/1.jpg);}
+.box6{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image:url(img/1.jpg);}
+.box7{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image: url(img/1.jpg);}
+.box8{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	background-image:url(img/1.jpg);}
+.yuan{
+	width:150px;
+	height:150px;
+	background-color: #000000;
+	border-radius:400px 400px;
+	float:right;
+	margin-top:25px;
+	margin-right:25px;
+	opacity:0.3;}
+.diming{
+	float:right;
+	margin-top:-120px;
+	margin-right:68px;}
+.rmb{
+	float:right;
+	margin-top:-60px;
+	margin-right:130px;}
+.price{
+	color:#FF0000;
+	float:right;
+	margin-top:-60px;
+	margin-right:88px;}
+.ren{
+	float:right;
+	margin-top:-55px;
+	margin-right:45px;}
+.box3 .rmb{
+	float:right;
+	margin-top:-60px;
+	margin-right:145px;
+	}
+.box5 .rmb{
+	float:right;
+	margin-top:-60px;
+	margin-right:145px;
+	}
+	
+
+
